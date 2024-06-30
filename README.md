@@ -3,7 +3,7 @@
 
 
 
-Concurrency App using the API from https://www.coingecko.com/
+ API from https://www.coingecko.com/
 
 the technologies used in this project consist of:
 
